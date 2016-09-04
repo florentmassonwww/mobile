@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "mlm.crm.biz"
+        }
+    }
+}
